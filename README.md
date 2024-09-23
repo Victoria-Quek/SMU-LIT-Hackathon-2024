@@ -1,4 +1,4 @@
-# `We tried`
+# `Deployed testing`
 
 Mainnet websites
 Starter: https://i3as4-pyaaa-aaaap-qhsmq-cai.icp0.io/
